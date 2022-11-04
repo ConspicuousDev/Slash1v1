@@ -1,0 +1,21 @@
+name: Slash1v1
+main: com.omniscient.slash1v1.Slash1v1
+version: 1.0
+author: Omniscient
+commands:
+  1v1:
+    usage: /1v1 <player>
+    description: Challenge <player> to a 1v1 battle
+    permission: slash1v1.commands.1v1
+  1v1location:
+    usage: /1v1location <location>
+    description: Set locations for 1v1
+    permission: slash1v1.commands.1v1location
+  1v1abort:
+    usage: /1v1abort
+    description: Aborts the current 1v1 battle
+    permission: slash1v1.commands.1v1abort
+  1v1leave:
+    usage: /1v1leave
+    description: Leave current 1v1
+    permission: slash1v1.commands.1v1leave
