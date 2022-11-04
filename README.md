@@ -19,4 +19,4 @@ The setup of the 1v1 arena is can be set through the command ``/1v1location``. F
   - Leave current 1v1.
 
 ## Showcase
-Click [here](https://www.youtube.com/watch?v=GwBoYpPes38) for the showcase (v1.0).
+Click [here](https://youtu.be/s1YyVUgTJDw) for the showcase (v1.0).
